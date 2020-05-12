@@ -611,7 +611,7 @@ def main():
     # f_name2 = "data_stream-2016-07-01T080007.json"
     # h_dir = 'c:/Temp/hist_temp/'
 
-    url = 'http://130.89.217.201:8080/sos-4.4/service'
+    url = 'http://xx.xx.xx.xxxx:8080/sos-4.4/service'
     token = 'TWFudWVsIEdhcmNpYQ=='
     # rq = requests_from_file(dir, f_name, 'bus', h_dir, time_attrib=True)
 
