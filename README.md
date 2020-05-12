@@ -4,6 +4,14 @@ A python wrapper to handle requests to a Sensor Observation Service (SOS)
 This Python package provides a set of functions to handle requests to and forth a Sensor Observation Service (SOS). Its use is restricted to the OGC SOS standard and the implementation provided by 52North. For more information visit: http://52north.org/communities/sensorweb/sos/
 This package is currently compatible with the SOS 4.4.x version, and it mainly uses the JSON binding to access the SOS API.
 
+## Adquired Skills
+
+* Python programming
+* Parsing JSON files
+* OGC SOS standard
+* Deploying Java application in Tomcat
+* Working with API's
+
 
 # About the SOS Standard
 
